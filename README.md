@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](src/img/screenshots/screenshot-1.png)
-![](src/img/screenshots/screenshot-2.png)
+![](/img/screenshots/screenshot-1.png)
+![](/img/screenshots/screenshot-2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Darko96/tip-calculator-app]
+- Live Site URL: [https://darko96.github.io/tip-calculator-app/]
 
 ## My process
 
